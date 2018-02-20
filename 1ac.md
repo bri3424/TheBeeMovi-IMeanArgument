@@ -17,16 +17,17 @@ Plan: The USFG should ban all neonics
 
 Solvency: Banning eliminates use
 
-Advantage: Dangerous to Human Mental Health
-	Neuronicotinoids are a danger to public health. In the article "EFSA assesses potential link between two neonicotinoids and developmental neurotoxicity" http://www.efsa.europa.eu/en/press/news/131217, the EFSA says quote: "The PPR Panel found that acetamiprid  and imidacloprid {both neonicitinoids} may affect the development of neurons and brain structures {in humans} associated with functions such as learning and memory. It {is} concluded that some current levels for acceptable exposure to acetamiprid and imidacloprid may not be protective enough to safeguard against developmental neurotoxicity and should be reduced." From the NRDC (natural resource defense council) QUOTE "The pesticides are designed to target the insect nervous system – this is how they are effective insecticides... [It causes] havoc with the affected nerve cell and ultimately killing a target insect within hours or days." Unquote. It can also damage parts of the brain involving fetal growth, muscle contraction, learning, and the ability to pay attention.
 
-Advantage: Permeates Ecosystems and uses Drinking Water as a Vector
-	A study by the U.S. Geological Survey found that QUOTE "neonics are widespread contaminants of surface and ground water that could be a source of drinking water... Limited testing from the U.S. Department of Agriculture has found neonics in fruits and vegetables, where the pesticide’s systemic nature means it cannot be washed off the surface of these foods." UNQUOTE	
-	
+Advantage1: Permeates Ecosystems and uses Drinking Water as a Vector
+	A study by the U.S. Geological Survey found that QUOTE "neonics are widespread contaminants of surface and ground water that could be a source of drinking water... Limited testing from the U.S. Department of Agriculture has found neonics in fruits and vegetables, where the pesticide’s systemic nature means it cannot be washed off the surface of these foods." UNQUOTE. George Monbiot, an environmental book author, said QUOTE "Between 1.6% and 20% of the pesticide used for dressing seeds is actually absorbed by the crop." UNQUOTE. This means that if we don't stop this deadly pesticide, the food that we eat is always infected with neonics.
+
+Advantage2: Dangerous to Human Mental Health.
+	Neuronicotinoids are a danger to public health. Now, why is that so? In the article "EFSA assesses potential link between two neonicotinoids and developmental neurotoxicity" http://www.efsa.europa.eu/en/press/news/131217, the EFSA says quote: "The PPR Panel found that acetamiprid  and imidacloprid {both neonicitinoids} may affect the development of neurons and brain structures {in humans} associated with functions such as learning and memory." From the NRDC (natural resource defense council) QUOTE "The pesticides are designed to target the insect nervous system – this is how they are effective insecticides... {It causes} havoc with the affected nerve cell and ultimately killing a target insect within hours or days." Unquote. It can also damage parts of the brain involving fetal growth, muscle contraction, learning, and the ability to pay attention.
+
 Unq: Bees Dead
 
 Link: Plan stops
 	Evidence
 
-Mpx: Money/Power/Freedom/Lives
+Mpx: This means that if we don't stop this deadly pesticide, the food that we eat is always infected with neonics.
 	Evidence
