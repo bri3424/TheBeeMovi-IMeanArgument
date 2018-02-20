@@ -18,7 +18,7 @@ Plan: The USFG should ban all neonics
 Solvency: Banning eliminates use
 	Evidence
 
-Advantage: NO ADVANTAGE?!?!	
+Advantage: Neuronicotinoids are a danger to public health. In the article "EFSA assesses potential link between two neonicotinoids and developmental neurotoxicity" http://www.efsa.europa.eu/en/press/news/131217, the EFSA says quote: "The PPR Panel found that acetamiprid  and imidacloprid {both neonicitinoids} may adversely affect the development of neurons and brain structures {in humans} associated with functions such as learning and memory. It concluded that some current guidance levels for acceptable exposure to acetamiprid and imidacloprid may not be protective enough to safeguard against developmental neurotoxicity and should be reduced."
 
 Unq: Bees Dead
 
