@@ -1,5 +1,5 @@
 Intro
-	Res: Environmental Policies
+	Res: USFG reform Environmental Policies
 	Something about topic
 	
 
@@ -10,7 +10,7 @@ Harm1: Bees Dying
 	Impact: Agriculture
 		Evidence
 
-Plan: The USFG should ban all neonicotinoids
+Plan: The USFG should ban all neonics
 	Enforcement: EPA/USDA
 	Timeline: Next growing season
 	Finding: Not necessary
@@ -18,7 +18,7 @@ Plan: The USFG should ban all neonicotinoids
 Solvency: Banning eliminates use
 	Evidence
 
-Advantage:
+Advantage: NO ADVANTAGE?!?!	
 
 Unq: Bees Dead
 
