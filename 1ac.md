@@ -1,10 +1,10 @@
 Intro
-	Res: USFG reform Environmental Policies
+	Res: The USFG should reform it's Environmental Policies, particularly those concerning honeybees.
 	Something about topic
 	
 
 Harm1: Bees Dying
-	The number of managed colonies in the United States for honey production has been in decline since the 1940s. In 1998, there were 5 million hives in america. As of 2015, there were 2.5 million.
+	The number of managed colonies in the United States for honey production has been in decline since the 1940s. In 1998, there were 5 million hives in america. As of 2015, there were 2.5 million. In 2013, the EU banned all neonicotinoids, and the US should not fall behind on public health, and endanger its own citizens.
 	Impact: Environment
 		Evidence
 	Impact: Agriculture
