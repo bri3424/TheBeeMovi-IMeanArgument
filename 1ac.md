@@ -13,10 +13,9 @@ Harm1: Bees Dying
 Plan: The USFG should ban all neonics
 	Enforcement: EPA/USDA
 	Timeline: Next growing season
-	Finding: Not necessary
+	Funding: Not necessary
 
 Solvency: Banning eliminates use
-	Evidence
 
 Advantage: NO ADVANTAGE?!?!	
 
@@ -27,3 +26,14 @@ Link: Plan stops
 
 Mpx: Money/Power/Freedom/Lives
 	Evidence
+	
+Harm2: Gets into drinking water
+	A study by the U.S. Geological Survey found that QUOTE "neonics are widespread contaminants of surface and ground water that could be a source of drinking water... Limited testing from the U.S. Department of Agriculture has found neonics in fruits and vegetables, where the pesticide’s systemic nature means it cannot be washed off the surface of these foods." UNQUOTE
+	
+Plan: Ban neonics again! (see previous plan)
+
+Solvency: Banning eliminates use :D
+
+Unq: People getting brain/internal damage?? (need evidence)
+
+MPX: PEOPLE DIE (probably)
