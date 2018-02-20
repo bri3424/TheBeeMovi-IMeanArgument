@@ -4,7 +4,7 @@ Intro
 	
 
 Harm1: Bees Dying
-	Evidence
+	The number of managed colonies in the United States for honey production has been in decline since the 1940s. In 1998, there were 5 million hives in america. As of 2015, there were 2.5 million.
 	Impact: Environment
 		Evidence
 	Impact: Agriculture
