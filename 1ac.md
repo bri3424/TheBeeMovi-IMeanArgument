@@ -25,8 +25,7 @@ Advantage: Permeates Ecosystems and uses Drinking Water as a Vector
 	
 Unq: Bees Dead
 
-Link: Plan stops
-	Evidence
++Link: If bees go extinct then we would lose a valuable ally against hunger. According to the USFG, bees pollinate up to 80% of the world's plants and a minimum of 30% of the world's food. The food prices would skyrocket because food would become scarcer every day.
 
 Mpx: Money/Power/Freedom/Lives
 	Evidence
