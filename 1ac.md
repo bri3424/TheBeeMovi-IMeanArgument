@@ -23,9 +23,29 @@ Advantage: Dangerous to Human Mental Health
 Advantage: Permeates Ecosystems and uses Drinking Water as a Vector
 	A study by the U.S. Geological Survey found that QUOTE "neonics are widespread contaminants of surface and ground water that could be a source of drinking water... Limited testing from the U.S. Department of Agriculture has found neonics in fruits and vegetables, where the pesticide’s systemic nature means it cannot be washed off the surface of these foods." UNQUOTE	
 	
-Unq: Bees Dead
+Unq: Bees Dead. “Neonicotinoids are not the only problem that bees face,” Dave Goulson, a biologist at the University of Sussex said. “But certainly... studies suggest very strongly that exposure to these pesticides is one of the factors causing bees to decline.”
 
 +Link: If bees go extinct then we would lose a valuable ally against hunger. According to the USFG, bees pollinate up to 80% of the world's plants and a minimum of 30% of the world's food. The food prices would skyrocket because food would become scarcer every day.
 
 Mpx: Money/Power/Freedom/Lives
 	Evidence
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Extra Cards!
+
